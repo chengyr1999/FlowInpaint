@@ -8,5 +8,12 @@ An image inpainting algorithm for serial sectioning images guided by optical flo
 python get_interpolation.py
 ```
 #### step2:Refined reference module
+```python
 
+flow_train.py
+```
 #### step3:Guided inpainting module
+```python
+
+fuse_train.py
+```
