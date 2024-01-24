@@ -5,5 +5,5 @@ An image inpainting algorithm for serial sectioning images guided by optical flo
 #### step1:Initial reference module
 ```python
 
-在这里插入你的.h5文件的代码块代码
+python get_interpolation.py
 ```
